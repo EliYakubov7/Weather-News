@@ -1,0 +1,92 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.newsweather"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="19"
+8-->C:\Users\yeliy\Desktop\NewsWeather\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->C:\Users\yeliy\Desktop\NewsWeather\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+11-->C:\Users\yeliy\Desktop\NewsWeather\app\src\main\AndroidManifest.xml:4:5-80
+11-->C:\Users\yeliy\Desktop\NewsWeather\app\src\main\AndroidManifest.xml:4:22-78
+12    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+12-->C:\Users\yeliy\Desktop\NewsWeather\app\src\main\AndroidManifest.xml:5:5-78
+12-->C:\Users\yeliy\Desktop\NewsWeather\app\src\main\AndroidManifest.xml:5:22-76
+13    <uses-permission android:name="android.permission.INTERNET" />
+13-->C:\Users\yeliy\Desktop\NewsWeather\app\src\main\AndroidManifest.xml:6:5-66
+13-->C:\Users\yeliy\Desktop\NewsWeather\app\src\main\AndroidManifest.xml:6:22-64
+14    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+14-->C:\Users\yeliy\Desktop\NewsWeather\app\src\main\AndroidManifest.xml:7:5-76
+14-->C:\Users\yeliy\Desktop\NewsWeather\app\src\main\AndroidManifest.xml:7:22-74
+15
+16    <application
+16-->C:\Users\yeliy\Desktop\NewsWeather\app\src\main\AndroidManifest.xml:8:5-24:19
+17        android:allowBackup="true"
+17-->C:\Users\yeliy\Desktop\NewsWeather\app\src\main\AndroidManifest.xml:9:9-35
+18        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+18-->[androidx.core:core:1.1.0] C:\Users\yeliy\.gradle\caches\transforms-2\files-2.1\34b4ab0d8b65ac74ddd00d45b26dd963\core-1.1.0\AndroidManifest.xml:24:18-86
+19        android:debuggable="true"
+20        android:icon="@mipmap/ic_launcher"
+20-->C:\Users\yeliy\Desktop\NewsWeather\app\src\main\AndroidManifest.xml:10:9-43
+21        android:label="@string/app_name"
+21-->C:\Users\yeliy\Desktop\NewsWeather\app\src\main\AndroidManifest.xml:11:9-41
+22        android:roundIcon="@mipmap/ic_launcher_round"
+22-->C:\Users\yeliy\Desktop\NewsWeather\app\src\main\AndroidManifest.xml:12:9-54
+23        android:supportsRtl="false"
+23-->C:\Users\yeliy\Desktop\NewsWeather\app\src\main\AndroidManifest.xml:13:9-36
+24        android:testOnly="true"
+25        android:theme="@style/AppTheme" >
+25-->C:\Users\yeliy\Desktop\NewsWeather\app\src\main\AndroidManifest.xml:14:9-40
+26        <activity android:name="com.example.newsweather.MainActivity" >
+26-->C:\Users\yeliy\Desktop\NewsWeather\app\src\main\AndroidManifest.xml:15:9-21:20
+26-->C:\Users\yeliy\Desktop\NewsWeather\app\src\main\AndroidManifest.xml:15:19-47
+27            <intent-filter>
+27-->C:\Users\yeliy\Desktop\NewsWeather\app\src\main\AndroidManifest.xml:16:13-20:29
+28                <action android:name="android.intent.action.MAIN" />
+28-->C:\Users\yeliy\Desktop\NewsWeather\app\src\main\AndroidManifest.xml:17:17-69
+28-->C:\Users\yeliy\Desktop\NewsWeather\app\src\main\AndroidManifest.xml:17:25-66
+29
+30                <category android:name="android.intent.category.LAUNCHER" />
+30-->C:\Users\yeliy\Desktop\NewsWeather\app\src\main\AndroidManifest.xml:19:17-77
+30-->C:\Users\yeliy\Desktop\NewsWeather\app\src\main\AndroidManifest.xml:19:27-74
+31            </intent-filter>
+32        </activity>
+33        <activity android:name="com.example.newsweather.SelectedArticleActivity" />
+33-->C:\Users\yeliy\Desktop\NewsWeather\app\src\main\AndroidManifest.xml:22:9-60
+33-->C:\Users\yeliy\Desktop\NewsWeather\app\src\main\AndroidManifest.xml:22:19-58
+34
+35        <service android:name="com.example.newsweather.NotifierService" />
+35-->C:\Users\yeliy\Desktop\NewsWeather\app\src\main\AndroidManifest.xml:23:9-51
+35-->C:\Users\yeliy\Desktop\NewsWeather\app\src\main\AndroidManifest.xml:23:18-49
+36
+37        <provider
+37-->[com.squareup.picasso:picasso:2.71828] C:\Users\yeliy\.gradle\caches\transforms-2\files-2.1\a17fdd47ca92101fe038d233e6c1ed91\jetified-picasso-2.71828\AndroidManifest.xml:8:9-11:40
+38            android:name="com.squareup.picasso.PicassoProvider"
+38-->[com.squareup.picasso:picasso:2.71828] C:\Users\yeliy\.gradle\caches\transforms-2\files-2.1\a17fdd47ca92101fe038d233e6c1ed91\jetified-picasso-2.71828\AndroidManifest.xml:9:13-64
+39            android:authorities="com.example.newsweather.com.squareup.picasso"
+39-->[com.squareup.picasso:picasso:2.71828] C:\Users\yeliy\.gradle\caches\transforms-2\files-2.1\a17fdd47ca92101fe038d233e6c1ed91\jetified-picasso-2.71828\AndroidManifest.xml:10:13-72
+40            android:exported="false" />
+40-->[com.squareup.picasso:picasso:2.71828] C:\Users\yeliy\.gradle\caches\transforms-2\files-2.1\a17fdd47ca92101fe038d233e6c1ed91\jetified-picasso-2.71828\AndroidManifest.xml:11:13-37
+41
+42        <activity
+42-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\yeliy\.gradle\caches\transforms-2\files-2.1\d810550874c071a7f5afc391a91fdc61\jetified-play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
+43            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+43-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\yeliy\.gradle\caches\transforms-2\files-2.1\d810550874c071a7f5afc391a91fdc61\jetified-play-services-base-17.0.0\AndroidManifest.xml:24:13-79
+44            android:exported="false"
+44-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\yeliy\.gradle\caches\transforms-2\files-2.1\d810550874c071a7f5afc391a91fdc61\jetified-play-services-base-17.0.0\AndroidManifest.xml:25:13-37
+45            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+45-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\yeliy\.gradle\caches\transforms-2\files-2.1\d810550874c071a7f5afc391a91fdc61\jetified-play-services-base-17.0.0\AndroidManifest.xml:26:13-72
+46
+47        <meta-data
+47-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\yeliy\.gradle\caches\transforms-2\files-2.1\5feaec8abf5f0f657ccb7d51c61164e6\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+48            android:name="com.google.android.gms.version"
+48-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\yeliy\.gradle\caches\transforms-2\files-2.1\5feaec8abf5f0f657ccb7d51c61164e6\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
+49            android:value="@integer/google_play_services_version" />
+49-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\yeliy\.gradle\caches\transforms-2\files-2.1\5feaec8abf5f0f657ccb7d51c61164e6\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+50    </application>
+51
+52</manifest>

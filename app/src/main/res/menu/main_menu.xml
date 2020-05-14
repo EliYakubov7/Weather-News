@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/action_notify"
+        android:title="הפעל התראה"
+        tools:ignore="HardcodedText" />
+    <item android:id="@+id/action_notify_off"
+        android:title="בטל התראה"
+        tools:ignore="HardcodedText" />
+    <group android:checkableBehavior="single">
+    <item android:id="@+id/technology_category_action"
+        app:showAsAction="always"
+        android:title="טכנולוגיה"
+        tools:ignore="HardcodedText" />
+        <item android:id="@+id/sports_category_action"
+            app:showAsAction="always"
+            android:title="ספורט"
+            tools:ignore="AlwaysShowAction,HardcodedText" />
+        <item android:id="@+id/health_category_action"
+            app:showAsAction="always"
+            android:title="בריאות"
+            tools:ignore="HardcodedText" />
+        <item android:id="@+id/all_category_action"
+            app:showAsAction="always"
+            android:checked="true"
+            android:title="הכל"
+            tools:ignore="HardcodedText" />
+    </group>
+
+
+</menu>

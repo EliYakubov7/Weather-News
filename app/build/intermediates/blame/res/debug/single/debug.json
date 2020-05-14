@@ -1,0 +1,194 @@
+[
+    {
+        "merged": "C:\\Users\\yeliy\\Desktop\\NewsWeather\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\yeliy\\Desktop\\NewsWeather\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\yeliy\\Desktop\\NewsWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_selected_article.xml.flat",
+        "source": "C:\\Users\\yeliy\\Desktop\\NewsWeather\\app\\src\\main\\res\\layout\\activity_selected_article.xml"
+    },
+    {
+        "merged": "C:\\Users\\yeliy\\Desktop\\NewsWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout_article_cell.xml.flat",
+        "source": "C:\\Users\\yeliy\\Desktop\\NewsWeather\\app\\src\\main\\res\\layout\\article_cell.xml"
+    },
+    {
+        "merged": "C:\\Users\\yeliy\\Desktop\\NewsWeather\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\yeliy\\Desktop\\NewsWeather\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\yeliy\\Desktop\\NewsWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable_news_icon.png.flat",
+        "source": "C:\\Users\\yeliy\\Desktop\\NewsWeather\\app\\src\\main\\res\\drawable\\news_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\yeliy\\Desktop\\NewsWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\yeliy\\Desktop\\NewsWeather\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\yeliy\\Desktop\\NewsWeather\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\yeliy\\Desktop\\NewsWeather\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\yeliy\\Desktop\\NewsWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\yeliy\\Desktop\\NewsWeather\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\yeliy\\Desktop\\NewsWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\yeliy\\Desktop\\NewsWeather\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\yeliy\\Desktop\\NewsWeather\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\yeliy\\Desktop\\NewsWeather\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\yeliy\\Desktop\\NewsWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\yeliy\\Desktop\\NewsWeather\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\yeliy\\Desktop\\NewsWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable_news_icons.png.flat",
+        "source": "C:\\Users\\yeliy\\Desktop\\NewsWeather\\app\\src\\main\\res\\drawable\\news_icons.png"
+    },
+    {
+        "merged": "C:\\Users\\yeliy\\Desktop\\NewsWeather\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\yeliy\\Desktop\\NewsWeather\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\yeliy\\Desktop\\NewsWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_icon.png.flat",
+        "source": "C:\\Users\\yeliy\\Desktop\\NewsWeather\\app\\src\\main\\res\\drawable\\notification_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\yeliy\\Desktop\\NewsWeather\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\yeliy\\Desktop\\NewsWeather\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\yeliy\\Desktop\\NewsWeather\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\yeliy\\Desktop\\NewsWeather\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\yeliy\\Desktop\\NewsWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_icons.png.flat",
+        "source": "C:\\Users\\yeliy\\Desktop\\NewsWeather\\app\\src\\main\\res\\drawable\\notification_icons.png"
+    },
+    {
+        "merged": "C:\\Users\\yeliy\\Desktop\\NewsWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable_glass.png.flat",
+        "source": "C:\\Users\\yeliy\\Desktop\\NewsWeather\\app\\src\\main\\res\\drawable\\glass.png"
+    },
+    {
+        "merged": "C:\\Users\\yeliy\\Desktop\\NewsWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rrr.jpg.flat",
+        "source": "C:\\Users\\yeliy\\Desktop\\NewsWeather\\app\\src\\main\\res\\drawable\\rrr.jpg"
+    },
+    {
+        "merged": "C:\\Users\\yeliy\\Desktop\\NewsWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout_weather_cell.xml.flat",
+        "source": "C:\\Users\\yeliy\\Desktop\\NewsWeather\\app\\src\\main\\res\\layout\\weather_cell.xml"
+    },
+    {
+        "merged": "C:\\Users\\yeliy\\Desktop\\NewsWeather\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\yeliy\\Desktop\\NewsWeather\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\yeliy\\Desktop\\NewsWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\yeliy\\Desktop\\NewsWeather\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\yeliy\\Desktop\\NewsWeather\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\yeliy\\Desktop\\NewsWeather\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\yeliy\\Desktop\\NewsWeather\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\yeliy\\Desktop\\NewsWeather\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\yeliy\\Desktop\\NewsWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ttt.jpg.flat",
+        "source": "C:\\Users\\yeliy\\Desktop\\NewsWeather\\app\\src\\main\\res\\drawable\\ttt.jpg"
+    },
+    {
+        "merged": "C:\\Users\\yeliy\\Desktop\\NewsWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout_news_fragment.xml.flat",
+        "source": "C:\\Users\\yeliy\\Desktop\\NewsWeather\\app\\src\\main\\res\\layout\\news_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\yeliy\\Desktop\\NewsWeather\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\yeliy\\Desktop\\NewsWeather\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\yeliy\\Desktop\\NewsWeather\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\yeliy\\Desktop\\NewsWeather\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\yeliy\\Desktop\\NewsWeather\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\yeliy\\Desktop\\NewsWeather\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\yeliy\\Desktop\\NewsWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_news.jpg.flat",
+        "source": "C:\\Users\\yeliy\\Desktop\\NewsWeather\\app\\src\\main\\res\\drawable\\icon_news.jpg"
+    },
+    {
+        "merged": "C:\\Users\\yeliy\\Desktop\\NewsWeather\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\yeliy\\Desktop\\NewsWeather\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\yeliy\\Desktop\\NewsWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\yeliy\\Desktop\\NewsWeather\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\yeliy\\Desktop\\NewsWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\yeliy\\Desktop\\NewsWeather\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\yeliy\\Desktop\\NewsWeather\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\yeliy\\Desktop\\NewsWeather\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\yeliy\\Desktop\\NewsWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout_weather_fragment.xml.flat",
+        "source": "C:\\Users\\yeliy\\Desktop\\NewsWeather\\app\\src\\main\\res\\layout\\weather_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\yeliy\\Desktop\\NewsWeather\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\yeliy\\Desktop\\NewsWeather\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\yeliy\\Desktop\\NewsWeather\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\yeliy\\Desktop\\NewsWeather\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\yeliy\\Desktop\\NewsWeather\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\yeliy\\Desktop\\NewsWeather\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\yeliy\\Desktop\\NewsWeather\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\yeliy\\Desktop\\NewsWeather\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\yeliy\\Desktop\\NewsWeather\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\yeliy\\Desktop\\NewsWeather\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\yeliy\\Desktop\\NewsWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rounded_button.xml.flat",
+        "source": "C:\\Users\\yeliy\\Desktop\\NewsWeather\\app\\src\\main\\res\\drawable\\rounded_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\yeliy\\Desktop\\NewsWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable_news.png.flat",
+        "source": "C:\\Users\\yeliy\\Desktop\\NewsWeather\\app\\src\\main\\res\\drawable\\news.png"
+    },
+    {
+        "merged": "C:\\Users\\yeliy\\Desktop\\NewsWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\yeliy\\Desktop\\NewsWeather\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\yeliy\\Desktop\\NewsWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable_add_btn.xml.flat",
+        "source": "C:\\Users\\yeliy\\Desktop\\NewsWeather\\app\\src\\main\\res\\drawable\\add_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\yeliy\\Desktop\\NewsWeather\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\yeliy\\Desktop\\NewsWeather\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\yeliy\\Desktop\\NewsWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\yeliy\\Desktop\\NewsWeather\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\yeliy\\Desktop\\NewsWeather\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\yeliy\\Desktop\\NewsWeather\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\yeliy\\Desktop\\NewsWeather\\app\\build\\intermediates\\res\\merged\\debug\\menu_main_menu.xml.flat",
+        "source": "C:\\Users\\yeliy\\Desktop\\NewsWeather\\app\\src\\main\\res\\menu\\main_menu.xml"
+    }
+]

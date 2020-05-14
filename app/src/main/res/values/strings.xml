@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Weather&amp;News</string>
+    <string name="watch_full_article">צפה במאמר המלא</string>
+    <string name="article_information">מידע אודות המאמר</string>
+    <string name="brackets" translatable="false">\\[</string>
+    <string name="title_of_article">כותרת המאמר</string>
+    <string name="description">תיאור</string>
+</resources>

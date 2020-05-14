@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<androidx.cardview.widget.CardView
+    android:layout_width="wrap_content"
+    android:layout_height="match_parent"
+    app:cardElevation="5dp"
+    android:orientation="horizontal"
+    app:cardUseCompatPadding="true"
+    app:cardCornerRadius="5dp"
+    android:padding="10dp"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <ImageView
+        android:layout_width="150dp"
+        android:layout_height="match_parent"
+        android:scaleType="fitXY"
+        android:background="@color/pale_blue"/>
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:padding="10dp">
+
+            <TextView
+                android:id="@+id/wtime_tv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="שעה"
+                android:layout_gravity="center"
+                android:textColor="@color/black"
+                 />
+
+
+        <TextView
+            android:layout_marginTop="10dp"
+            android:id="@+id/line"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@color/colorTextBlackLight"
+            />
+    <LinearLayout
+        android:layout_marginTop="10dp"
+        android:orientation="horizontal"
+        android:layout_gravity="center_horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/wicon_iv"
+            android:layout_width="40dp"
+            android:layout_height="29dp"
+            android:gravity="center_horizontal"
+            android:src="@drawable/common_google_signin_btn_icon_dark" />
+
+        <TextView
+            android:id="@+id/wdescription_tv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical|center_horizontal"
+            android:layout_marginStart="3dp"
+            android:text="@string/description"
+            android:textColor="@color/black" />
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_gravity="center_horizontal">
+        <TextView
+            android:id="@+id/wtemp_tv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:text="21"
+            android:layout_marginStart="5dp"
+            android:textColor="@color/black"/>
+        <TextView
+            android:id="@+id/ftemp_tv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:text="21"
+            android:layout_marginStart="10dp"
+            android:textColor="@color/black"/>
+
+    </LinearLayout>
+
+
+
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>
+
+    <!--
+    <?xml version="1.0" encoding="utf-8"?>
+
+    <androidx.cardview.widget.CardView android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:padding="10dp"
+        android:orientation="horizontal"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        app:contentPadding="5dp"
+        app:cardBackgroundColor="#f4cccc"
+        xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout
+        android:orientation="vertical" android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:orientation="horizontal" android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:src="@drawable/common_google_signin_btn_icon_dark"
+            android:id="@+id/wicon_iv"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="time"
+            android:textColor="#000"
+            android:gravity="center"
+            android:id="@+id/country_tv"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+        <TextView
+            android:layout_width="80dp"
+            android:layout_height="wrap_content"
+            android:text="time"
+            android:textColor="#000"
+            android:gravity="center"
+            android:id="@+id/wtime_tv"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="time"
+            android:gravity="center"
+            android:textColor="#000"
+            android:id="@+id/wdescription_tv"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="time"
+            android:gravity="center"
+            android:textColor="#000"
+            android:id="@+id/wtemp_tv"/>
+
+        </LinearLayout>
+
+
+
+    </LinearLayout>
+
+    </androidx.cardview.widget.CardView>-->
+
+
