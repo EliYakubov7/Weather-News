@@ -11,7 +11,7 @@ Android Studio App
 
 ### Screenshots
 
-<img src="https://github.com/EliYakubov7/Weather-News/tree/master/screenshots" width="250">  
+<img src="https://github.com/EliYakubov7/Weather-News/blob/master/screenshots/main_activity.jpg" width="250">  
 
 
 ## Author
