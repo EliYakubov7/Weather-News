@@ -53,7 +53,7 @@ public class MainActivity extends AppCompatActivity implements ArticlesListFragm
     private ArrayList<Weather> weatherForecastsList = new ArrayList<>();
     private FusedLocationProviderClient client;
     final int LOCATION_PERMISSION_REQUEST = 1;
-    private String WEATHER_FORECAST_LINK = "https://api.openweathermap.org/data/2.5/forecast?APPID=61fdf72da95b0807f12f775d7d474e6c";
+    private String WEATHER_FORECAST_LINK = "YOUR_API_WEATHER_FORECAST";
     final String WEATHER_LIST_FRAGMENT_TAG = "weather_fragment";
 
 
@@ -62,7 +62,7 @@ public class MainActivity extends AppCompatActivity implements ArticlesListFragm
     private ArrayList<Article> articlesList = new ArrayList<>();
     private String notificationCategory = "all";
     private String[] notificationFrequencies = {"דקה 1", "שעה 1", "יום 1"};
-    private String HEADLINES_NEWS_LINK = "https://newsapi.org/v2/top-headlines?country=il&apiKey=eef605b5cecf4b309878ce8d0af89b52";
+    private String HEADLINES_NEWS_LINK = "YOUR_API_NEWS";
     final String ARTICLES_LIST_FRAGMENT_TAG = "register_fragment";
 
 
